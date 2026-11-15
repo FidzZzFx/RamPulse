@@ -10,7 +10,7 @@ Lightweight, native, and safe. No processes are killed and no system settings ar
 
 <br>
 
-<a href="https://raw.githubusercontent.com/FidzZzFx/RamPulse/main/RamPulse.exe">
+<a href="https://raw.githubusercontent.com/FidzZzFx/RamPulse/main/RamPulse.zip">
   <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download-RamPulse.exe-2ea44f?style=for-the-badge&logoColor=white" alt="Download RamPulse.exe">
 </a>
 
