@@ -164,7 +164,7 @@ RamPulse is cross-compiled with **MinGW-w64**.
 sudo apt install mingw-w64
 
 git clone https://github.com/FidzZzFx/RamPulse.git
-cd RamPulse
+cd ./RamPulse/RamPulse
 chmod +x build.sh
 ./build.sh
 ```
